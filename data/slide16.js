@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{D6C82295-E5D7-42C2-A825-53A64CFBBACA}'];loadHandler&&loadHandler(15, '<div id="spr0_138581b1"><div id="spr1_138581b1" class="kern slide"><img id="img3_138581b1" src="data/img0.png" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_138581b1" class="kern slide"><div id="spr3_138581b1" style="left:821.677px;"><img id="img0_138581b1" src="data/img9.png" width="458.25" height="720.75" alt="Зображення, що містить текст, знімок екрана, карта\
+\
+Автоматично згенерований опис" style="left:0.027px;top:-0.281px;"/></div><div id="spr4_138581b1" style="left:-1px;top:-1px;"><img id="img1_138581b1" src="data/img10.png" width="420" height="723" alt="Зображення, що містить текст, знімок екрана" style="left:-0.363px;top:-0.375px;"/></div><div id="spr5_138581b1" style="left:416.032px;top:-1px;"><img id="img2_138581b1" src="data/img11.png" width="407.25" height="723" alt="Зображення, що містить текст, знімок екрана, карта\
+\
+Автоматично згенерований опис" style="left:-0.227px;top:-0.375px;"/></div></div></div>', '{"s":[]}');})();
